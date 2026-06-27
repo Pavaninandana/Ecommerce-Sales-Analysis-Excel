@@ -17,15 +17,15 @@ This project is an interactive Ecommerce Sales Analysis Dashboard built using Mi
 
 
 ## Process
-1.Imported the Ecommerce Sales dataset into Microsoft Excel.
-2.Verified the dataset for missing values, duplicate records, and inconsistencies.
-3.Ensured data was clean and consistent by checking data types, formats, and values.
-4.Organized and prepared the dataset for analysis.
-5.Created Pivot Tables to answer key business questions (KPIs).
-6.Designed multiple visualizations including Combo Chart, Waterfall Chart, Pie Chart, Bar Chart, and Map Chart.
-7.Added KPI cards to monitor Sales, Profit, Orders, Quantity, and Year-over-Year (YoY) Growth.
-8.Connected all Pivot Tables and Charts using Slicers for interactive filtering.
-9.Combined all visualizations into a single interactive dashboard for business analysis and decision-making.
+1.Imported the Ecommerce Sales dataset into Microsoft Excel
+2.Verified the dataset for missing values, duplicate records, and inconsistencies
+3.Ensured data was clean and consistent by checking data types, formats, and values
+4.Organized and prepared the dataset for analysis
+5.Created Pivot Tables to answer key business questions (KPIs)
+6.Designed multiple visualizations including Combo Chart, Waterfall Chart, Pie Chart, Bar Chart, and Map Chart
+7.Added KPI cards to monitor Sales, Profit, Orders, Quantity, and Year-over-Year (YoY) Growth
+8.Connected all Pivot Tables and Charts using Slicers for interactive filtering
+9.Combined all visualizations into a single interactive dashboard for business analysis and decision-making
 
 ## Dashboard 
 -<a href="https://github.com/Pavaninandana/Ecommerce-Sales-Analysis-Excel/blob/main/Dashboard.png">View Dashboard</a>
