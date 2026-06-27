@@ -3,11 +3,33 @@
 ## Project Description
 This project is an interactive Ecommerce Sales Analysis Dashboard built using Microsoft Excel. It helps analyze sales performance, profit, orders, quantity, product categories, and regional sales using Pivot Tables, Pivot Charts, Slicers, and KPI cards.
 
+## Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Map Chart
+- Waterfall Chart
+- KPI Cards
+
 ## Dataset Used
 -<a href="https://github.com/Pavaninandana/Ecommerce-Sales-Analysis-Excel/blob/main/Ecommerce%20Sales%20Analysis.xlsx">Ecommerce Sales Analysis data</a>
 
+
+## Process
+-Imported the Ecommerce Sales dataset into Microsoft Excel.
+-Verified the dataset for missing values, duplicate records, and inconsistencies.
+-Ensured data was clean and consistent by checking data types, formats, and values.
+-Organized and prepared the dataset for analysis.
+-Created Pivot Tables to answer key business questions (KPIs).
+-Designed multiple visualizations including Combo Chart, Waterfall Chart, Pie Chart, Bar Chart, and Map Chart.
+-Added KPI cards to monitor Sales, Profit, Orders, Quantity, and Year-over-Year (YoY) Growth.
+-Connected all Pivot Tables and Charts using Slicers for interactive filtering.
+-Combined all visualizations into a single interactive dashboard for business analysis and decision-making.
+
 ## Dashboard 
 -<a href="https://github.com/Pavaninandana/Ecommerce-Sales-Analysis-Excel/blob/main/Dashboard.png">View Dashboard</a>
+
 
 ## Dashboard Features
 
@@ -32,14 +54,3 @@ This project is an interactive Ecommerce Sales Analysis Dashboard built using Mi
 ## Final Conclusion
 
 This dashboard provides a clear overview of Ecommerce sales performance and helps identify sales trends, profitable categories, top products, and regional performance for better business decision-making.
-
-
-## Tools Used
-
-- Microsoft Excel
-- Pivot Tables
-- Pivot Charts
-- Slicers
-- Map Chart
-- Waterfall Chart
-- KPI Cards
